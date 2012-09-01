@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: RazyStatusBar
+## Version: 0.0.1
+## Notes: A Customizable Status Bar
+## Author: dandelie - AzsharaKR
+RazyStatusBar.xml
+RazyStatusBar.lua
